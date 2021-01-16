@@ -15,13 +15,13 @@ author: Ammar
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Appearances:
     - Theatrical Performance: "theatrical"
     - Television: "tv"
     - Films: "films"
     - Voice Over: "voice-over"
   Awards: "awards"
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
